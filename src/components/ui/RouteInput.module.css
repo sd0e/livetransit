@@ -1,0 +1,50 @@
+.routeInputTag {
+	line-height: 2.4rem;
+	vertical-align: middle;
+	font-size: 2.4rem;
+	padding: 1rem 1.5rem;
+	margin-right: 1.5rem;
+	margin-bottom: 1.5rem;
+	width: 10rem;
+	border: none;
+	border-radius: 0.8rem;
+	background-color: #e7e7e7;
+	-webkit-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.25);
+	-moz-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.25);
+	box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.25);
+	text-transform: uppercase;
+	transition: 0.1s ease-in-out;
+}
+
+.routeInputTag:hover,
+.routeInputTag:focus {
+	-webkit-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.4);
+	-moz-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.4);
+	box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.4);
+}
+
+.submitRouteButton {
+	display: inline-block;
+	line-height: 2.4rem;
+	vertical-align: middle;
+	font-size: 2.4rem;
+	padding: 1rem 1.5rem;
+	margin-bottom: 1.5rem;
+	border: none;
+	border-radius: 0.8rem;
+	text-transform: uppercase;
+	background-color: #ba2819;
+	color: #f2f2f2;
+	-webkit-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.25);
+	-moz-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.25);
+	box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.25);
+	cursor: pointer;
+	transition: 0.1s ease-in-out;
+}
+
+.submitRouteButton:hover {
+	filter: opacity(0.8);
+	-webkit-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.4);
+	-moz-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.4);
+	box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.4);
+}

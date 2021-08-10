@@ -1,0 +1,51 @@
+.moreStopsButton {
+	display: block;
+	background-color: #f2f2f2;
+	margin-bottom: 1.5rem;
+	padding: 1rem;
+	border-radius: 0.5rem;
+	border: none;
+	cursor: pointer;
+	transition: 0.1s ease-in-out;
+}
+
+.moreStopsButton:hover {
+	filter: opacity(0.8);
+}
+
+.moreStopsIcon {
+	line-height: 2rem;
+	vertical-align: middle;
+}
+
+.loadingGif {
+	width: 1.5rem;
+	height: 1.5rem;
+	line-height: 2rem;
+	vertical-align: middle;
+}
+
+.moreStopsText {
+	color: #333333;
+	display: inline-block;
+	margin-left: 1rem;
+	font-size: 1.1rem;
+	line-height: 2rem;
+	vertical-align: middle;
+	text-transform: uppercase;
+	letter-spacing: 0.15rem;
+}
+
+.overrideText {
+	display: block;
+	margin-bottom: 1.5rem;
+	padding: 1rem;
+	border-radius: 0.5rem;
+	color: #333333;
+	margin-left: 1rem;
+	font-size: 1.1rem;
+	line-height: 2rem;
+	vertical-align: middle;
+	text-transform: uppercase;
+	letter-spacing: 0.15rem;
+}

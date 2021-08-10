@@ -1,0 +1,21 @@
+.stopMapHolder {
+	width: 100%;
+	height: 20rem;
+	margin-bottom: 3rem;
+	border-radius: 1rem;
+	overflow: hidden;
+	-webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.25);
+	-moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.25);
+	box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.25);
+}
+
+@media only screen and (max-height: 700px) {
+	.stopMapHolder {
+		height: 15rem;
+	}
+}
+
+.mapContainer {
+	height: 20rem;
+	z-index: 10;
+}

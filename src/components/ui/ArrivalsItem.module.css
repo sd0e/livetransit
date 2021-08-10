@@ -1,0 +1,36 @@
+.arrivalsItemHolder {
+	display: block;
+	margin-bottom: 1.5rem;
+	border-radius: 1rem;
+	padding: 0.8rem;
+	width: calc(100% - 2rem);
+	color: #333333;
+	background-color: #e5e5e5;
+	-webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.25);
+	-moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.25);
+	box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.25);
+	font-size: 1.2rem;
+	line-height: 2rem;
+	vertical-align: middle;
+}
+
+.destination {
+	display: inline-block;
+	padding: 0.1rem 0;
+	margin-left: 1.5rem;
+	position: relative;
+	bottom: 0.1rem;
+	font-size: 1.3rem;
+	line-height: 2rem;
+	vertical-align: middle;
+}
+
+.timeUntilArrival {
+	display: block;
+	float: right;
+	padding: 0.1rem 0;
+	margin-right: 1.5rem;
+	font-size: 1.2rem;
+	line-height: 2rem;
+	vertical-align: middle;
+}

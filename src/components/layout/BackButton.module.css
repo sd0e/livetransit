@@ -1,0 +1,22 @@
+.backButtonHolder {
+	color: #333333;
+	display: inline-block;
+	margin-bottom: 3rem;
+	line-height: 1.5rem;
+	vertical-align: middle;
+	text-decoration: none;
+}
+
+.backButtonIcon {
+	line-height: 1.5rem;
+	vertical-align: middle;
+}
+
+.backButtonText {
+	display: inline-block;
+	margin-left: 0.5rem;
+	line-height: 1.5rem;
+	vertical-align: middle;
+	letter-spacing: 0.15rem;
+	text-transform: uppercase;
+}

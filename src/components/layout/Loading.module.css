@@ -1,0 +1,14 @@
+.loadingIcon {
+	height: 1.5rem;
+	width: 1.5rem;
+	line-height: 2rem;
+	vertical-align: middle;
+}
+
+.loadingText {
+	display: inline-block;
+	margin-left: 1rem;
+	color: #333333;
+	line-height: 2rem;
+	vertical-align: middle;
+}

@@ -1,0 +1,15 @@
+.stopMapHolder {
+	width: 100%;
+	height: 20rem;
+}
+
+@media only screen and (max-height: 700px) {
+	.stopMapHolder {
+		height: 15rem;
+	}
+}
+
+.mapContainer {
+	height: 20rem;
+	z-index: 10;
+}

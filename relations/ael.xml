@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.5 (1719881 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <relation id="5317239" visible="true" version="15" changeset="94578751" timestamp="2020-11-22T12:59:41Z" user="Kovoschiz" uid="6250193">
+  <member type="node" ref="2557051040" role="stop_entry_only"/>
+  <member type="node" ref="288378895" role="stop_entry_only"/>
+  <member type="node" ref="24357989" role="stop_entry_only"/>
+  <member type="node" ref="253333824" role="stop"/>
+  <member type="way" ref="251613604" role="platform"/>
+  <member type="way" ref="251613611" role="platform"/>
+  <member type="node" ref="3304026514" role="stop"/>
+  <member type="way" ref="264577188" role="platform"/>
+  <member type="way" ref="454650622" role=""/>
+  <member type="way" ref="220247464" role=""/>
+  <member type="way" ref="875742646" role=""/>
+  <member type="way" ref="220134600" role=""/>
+  <member type="way" ref="220134584" role=""/>
+  <member type="way" ref="875742649" role=""/>
+  <member type="way" ref="220134582" role=""/>
+  <member type="way" ref="875742655" role=""/>
+  <member type="way" ref="875742650" role=""/>
+  <member type="way" ref="26379328" role=""/>
+  <member type="way" ref="26322051" role=""/>
+  <member type="way" ref="333556779" role=""/>
+  <member type="way" ref="26322054" role=""/>
+  <member type="way" ref="333556778" role=""/>
+  <member type="way" ref="26322031" role=""/>
+  <member type="way" ref="223266291" role=""/>
+  <member type="way" ref="4182662" role=""/>
+  <member type="way" ref="875742662" role=""/>
+  <member type="way" ref="264586941" role=""/>
+  <member type="way" ref="875742663" role=""/>
+  <member type="way" ref="220096046" role=""/>
+  <member type="way" ref="26321828" role=""/>
+  <member type="way" ref="517711050" role=""/>
+  <member type="way" ref="26321823" role=""/>
+  <member type="way" ref="875742668" role=""/>
+  <member type="way" ref="636356916" role=""/>
+  <member type="way" ref="4181898" role=""/>
+  <member type="way" ref="220096048" role=""/>
+  <member type="way" ref="219994068" role=""/>
+  <member type="way" ref="219993831" role=""/>
+  <member type="way" ref="334664289" role=""/>
+  <member type="way" ref="219993724" role=""/>
+  <member type="way" ref="219993991" role=""/>
+  <member type="way" ref="219993977" role=""/>
+  <member type="way" ref="219994084" role=""/>
+  <member type="way" ref="219993906" role=""/>
+  <member type="way" ref="219994022" role=""/>
+  <member type="way" ref="219994040" role=""/>
+  <member type="way" ref="219993972" role=""/>
+  <member type="way" ref="219993778" role=""/>
+  <member type="way" ref="219994016" role=""/>
+  <member type="way" ref="219994038" role=""/>
+  <member type="way" ref="219993962" role=""/>
+  <member type="way" ref="4959070" role=""/>
+  <member type="way" ref="715059879" role=""/>
+  <member type="way" ref="715059878" role=""/>
+  <member type="way" ref="790974286" role=""/>
+  <member type="way" ref="790974287" role=""/>
+  <member type="way" ref="4959071" role=""/>
+  <member type="way" ref="35927225" role=""/>
+  <member type="way" ref="87201322" role=""/>
+  <member type="way" ref="251613605" role=""/>
+  <member type="way" ref="251613610" role=""/>
+  <member type="way" ref="454650621" role=""/>
+  <tag k="class" v="express"/>
+  <tag k="colour" v="#00888a"/>
+  <tag k="frequency" v="0"/>
+  <tag k="from" v="香港 Hong Kong"/>
+  <tag k="from:en" v="Hong Kong"/>
+  <tag k="from:zh" v="香港"/>
+  <tag k="gauge" v="1432"/>
+  <tag k="maxspeed" v="135"/>
+  <tag k="name" v="機場快綫 Airport Express"/>
+  <tag k="name:en" v="Airport Express"/>
+  <tag k="name:zh" v="機場快綫"/>
+  <tag k="network" v="港鐵 MTR"/>
+  <tag k="network:en" v="MTR"/>
+  <tag k="operator" v="香港鐵路有限公司 MTR Corporation"/>
+  <tag k="operator:en" v="MTR Corporation"/>
+  <tag k="passenger" v="suburban"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="ref" v="AEL"/>
+  <tag k="route" v="subway"/>
+  <tag k="service" v="premium"/>
+  <tag k="to" v="博覽館 AsiaWorld-Expo"/>
+  <tag k="to:en" v="AsiaWorld-Expo"/>
+  <tag k="to:zh" v="博覽館"/>
+  <tag k="type" v="route"/>
+  <tag k="usage" v="main"/>
+  <tag k="via" v="機場 Airport"/>
+  <tag k="via:en" v="Airport"/>
+  <tag k="via:zh" v="機場"/>
+  <tag k="voltage" v="1500"/>
+  <tag k="wikidata" v="Q409036"/>
+ </relation>
+</osm>

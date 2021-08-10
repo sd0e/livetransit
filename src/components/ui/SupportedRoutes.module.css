@@ -1,0 +1,13 @@
+.supportedRoutesTitle {
+	display: block;
+	margin-top: 3rem;
+	margin-bottom: 1.5rem;
+	font-size: 1.3rem;
+	text-transform: uppercase;
+	letter-spacing: 0.15rem;
+}
+
+.supportedRoutesHolder {
+	line-height: 1.8rem;
+	vertical-align: middle;
+}

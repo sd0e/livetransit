@@ -1,0 +1,13 @@
+.stopDisplayerHolder {
+	display: block;
+	margin-top: 3rem;
+}
+
+.stopDisplayerSubtitle {
+	display: block;
+	text-transform: uppercase;
+	letter-spacing: 0.15rem;
+	font-size: 1.4rem;
+	color: #333333;
+	margin-bottom: 2rem;
+}

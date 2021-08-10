@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'PlusJakartaSans';
+    src: url('./font/woff2/PlusJakartaSans-Regular.woff2') format('woff2'),
+        url('./font/woff/PlusJakartaSans-Regular.woff') format('woff'),
+        url('./font/ttf/PlusJakartaSans-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'PlusJakartaSansBold';
+    src: url('./font/woff2/PlusJakartaSans-Bold.woff2') format('woff2'),
+        url('./font/woff/PlusJakartaSans-Bold.woff') format('woff'),
+        url('./font/ttf/PlusJakartaSans-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'PlusJakartaSansExtraBold';
+    src: url('./font/woff2/PlusJakartaSans-ExtraBold.woff2') format('woff2'),
+        url('./font/woff/PlusJakartaSans-ExtraBold.woff') format('woff'),
+        url('./font/ttf/PlusJakartaSans-ExtraBold.ttf') format('truetype');
+}
+
+* {
+    font-family: 'PlusJakartaSansBold', sans-serif;
+}
+
+body {
+    background-color: #f2f2f2;
+}
+
+main {
+    padding: 6.5rem 1.5rem 1.5rem 1.5rem;
+}

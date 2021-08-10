@@ -1,0 +1,15 @@
+.arrivalsTitleName {
+	display: block;
+	color: #333333;
+	font-size: 1.8rem;
+	margin-bottom: 1.5rem;
+}
+
+.arrivalsTitleText {
+	display: block;
+	color: #333333;
+	font-size: 1.1rem;
+	line-height: 2rem;
+	vertical-align: middle;
+	margin-bottom: 3rem;
+}
